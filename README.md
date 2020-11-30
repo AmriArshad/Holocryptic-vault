@@ -6,3 +6,6 @@ Animated bits that shift in colour and value.
 
 ## [OkBoomer](https://amriarshad.github.io/p5js-sketches/OkBoomer/index)
 Ok Boomer.
+
+## [HarmonicQuadrilaterals](https://amriarshad.github.io/p5js-sketches/HarmonicQuadrilaterals/index)
+Quandrialterals that change size according to harmonic motion
