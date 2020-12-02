@@ -6,6 +6,3 @@ Quandrialterals that change size according to harmonic motion
 
 ## [BinaryShift](https://amriarshad.github.io/p5js-sketches/src/BinaryShift/index)
 Animated bits that shift in colour and value.
-
-## [OkBoomer](https://amriarshad.github.io/p5js-sketches/src/OkBoomer/index)
-Ok Boomer.
