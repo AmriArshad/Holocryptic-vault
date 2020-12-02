@@ -1,3 +1,4 @@
+// inspiration: https://www.pinterest.nz/pin/226939268711839829/ 
 // 2/12/2020
 
 let angle = 0;
