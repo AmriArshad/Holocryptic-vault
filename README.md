@@ -5,4 +5,7 @@ Some of my p5.js sketches
 Quandrialterals that change size according to harmonic motion
 
 ## [BinaryShift](https://amriarshad.github.io/p5js-sketches/src/BinaryShift/index.html)
-Animated bits that shift in colour and value.
+Animated bits that shift in colour and value
+
+## [TPulse](https://amriarshad.github.io/p5js-sketches/src/TPulse/index.html)
+Triangles pulsing
