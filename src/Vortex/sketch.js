@@ -1,4 +1,5 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// 3/12/2020
 
 let yoff = 0;
 let radius = 250;
