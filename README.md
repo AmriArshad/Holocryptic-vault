@@ -1,6 +1,10 @@
 # p5js-sketches
 Some of my p5.js sketches 
 
+## [LightSpeed](https://amriarshad.github.io/p5js-sketches/src/LightSpeed/index)
+Travelling at the speed of light  
+Click to restart
+
 ## [BlackHole](https://amriarshad.github.io/p5js-sketches/src/BlackHole/index)
 Offsetting the vertices of a circle using perlin noise to create a black hole
 
