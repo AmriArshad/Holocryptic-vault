@@ -2,10 +2,11 @@
 // 3/12/2020
 
 let yoff = 0;
-let radius = 250;
+let radius;
 
 function setup() {
-  createCanvas(1080, 1080);
+  createCanvas(window.innerWidth, window.innerHeight);
+  radius = width/5;
 }
 
 function draw() {
