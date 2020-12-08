@@ -1,6 +1,9 @@
 # p5js-sketches
 Some of my p5.js sketches 
 
+## [SpidersDen](https://amriarshad.github.io/p5js-sketches/src/SpidersDen/index)
+Spiders creating their den
+
 ## [LightSpeed](https://amriarshad.github.io/p5js-sketches/src/LightSpeed/index)
 Travelling at the speed of light  
 Click to restart
