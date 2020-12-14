@@ -1,6 +1,9 @@
 # p5js-sketches
 Some of my p5.js sketches 
 
+## [RupturedHelix](https://amriarshad.github.io/p5js-sketches/src/RupturedHelix/index)
+An helix that pulses with unstable energy
+
 ## [Convergence](https://amriarshad.github.io/p5js-sketches/src/Convergence/index)
 Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 
