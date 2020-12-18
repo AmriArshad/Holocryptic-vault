@@ -1,5 +1,4 @@
 # p5js-sketches
-Some of my p5.js sketches 
 
 [RupturedHelix](https://amriarshad.github.io/p5js-sketches/src/RupturedHelix/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/RupturedHelix/sketch.js)
 \
