@@ -9,6 +9,8 @@ body {
   overflow: hidden;
 }
 
+/* code from https://github.com/owenmcateer/Motus-Art */
+
 .page--wider canvas {
   width: 100vh!important;
   height: 100vh!important;
