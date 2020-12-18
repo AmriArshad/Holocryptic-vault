@@ -1,7 +1,7 @@
 # p5js-sketches
 Some of my p5.js sketches 
 
-## [RupturedHelix](https://amriarshad.github.io/p5js-sketches/src/RupturedHelix/index)|[code](https://github.com/AmriArshad/p5js-sketches/tree/main/src/RupturedHelix)
+## [RupturedHelix](https://amriarshad.github.io/p5js-sketches/src/RupturedHelix/index) | [code](https://github.com/AmriArshad/p5js-sketches/tree/main/src/RupturedHelix)
 An helix that pulses with unstable energy
 
 ## [Convergence](https://amriarshad.github.io/p5js-sketches/src/Convergence/index)|[code](https://github.com/AmriArshad/p5js-sketches/tree/main/src/Convergence)
