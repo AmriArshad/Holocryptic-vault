@@ -3,7 +3,6 @@
 
 let yoff = 0;
 let radius = 250;
-let complete = false;
 
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
