@@ -1,5 +1,9 @@
 # p5js-sketches
 
+[Wormhole](https://amriarshad.github.io/p5js-sketches/src/Wormhole/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/Wormhole/sketch.js)
+\
+Manipulating sine and cos waves alongside perlin noise to create a wormhole
+
 [PerlinsRose](https://amriarshad.github.io/p5js-sketches/src/PerlinsRose/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/PerlinsRose/sketch.js)
 \
 Using perlin noise to create different rose designs
