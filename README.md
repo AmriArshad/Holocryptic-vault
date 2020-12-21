@@ -1,5 +1,9 @@
 # p5js-sketches
 
+[10PRINTCircuit](https://amriarshad.github.io/p5js-sketches/src/10PRINTCircuit/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/10PRINTCircuit/sketch.js)
+\
+My version of the famous one-line Commodore 64 BASIC program
+
 [Wormhole](https://amriarshad.github.io/p5js-sketches/src/Wormhole/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/Wormhole/sketch.js)
 \
 Manipulating sine and cos waves alongside perlin noise to create a wormhole
