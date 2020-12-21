@@ -1,4 +1,4 @@
-//  inspiration: https://thecodingtrain.com/CodingChallenges/076-10print.html
+// inspiration: https://thecodingtrain.com/CodingChallenges/076-10print.html
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10
 // 21/12/2020
 
