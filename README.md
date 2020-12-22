@@ -2,7 +2,7 @@
 
 [RecursiveOrbit](https://amriarshad.github.io/p5js-sketches/src/RecursiveOrbit/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/RecursiveOrbit/sketch.js)
 \
-Using a Sierpinski Triangle to draw an orbit path
+Using a Sierpinski Triangle to draw an orbit path  
 Resize the window to view different orbits
 
 [10PRINTCircuit](https://amriarshad.github.io/p5js-sketches/src/10PRINTCircuit/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/10PRINTCircuit/sketch.js)
