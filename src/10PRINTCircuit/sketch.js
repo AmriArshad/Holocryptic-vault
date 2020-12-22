@@ -27,7 +27,7 @@ function draw() {
     strokeWeight(1);
     noFill();
     if (random(1) < 0.5) {
-      circle(x, y, size / 2);
+      ellipse(x, y, size / 2);
     }
     else {
       rect(x, y, size / 2);
