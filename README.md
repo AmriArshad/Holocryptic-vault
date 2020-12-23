@@ -1,5 +1,9 @@
 # p5js-sketches
 
+[PhyllotacticSpiral](https://amriarshad.github.io/p5js-sketches/src/PhyllotacticSpiral/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/PhyllotacticSpiral/sketch.js)
+\
+Simulating phyllotaxis with an increasing divergence angle
+
 [RecursiveOrbit](https://amriarshad.github.io/p5js-sketches/src/RecursiveOrbit/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/RecursiveOrbit/sketch.js)
 \
 Using a Sierpinski Triangle to draw an orbit path  
