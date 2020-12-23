@@ -1,4 +1,5 @@
 # p5js-sketches
+A creative coding project I started to experiment with generative art and animation with code. It is heavily inspired by [Motus Art](https://owenmcateer.github.io/Motus-Art/) and Daniel Shiffman who produces excellent coding resources over at [TheCodingTrain](https://thecodingtrain.com/).
 
 [PhyllotacticSpiral](https://amriarshad.github.io/p5js-sketches/src/PhyllotacticSpiral/index) | [*code*](https://github.com/AmriArshad/p5js-sketches/tree/main/src/PhyllotacticSpiral/sketch.js)
 \
