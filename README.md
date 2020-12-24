@@ -1,4 +1,5 @@
 # Project Polygon
+
 A creative coding project I started to experiment with generative art and animation with code. It is heavily inspired by [Motus Art](https://owenmcateer.github.io/Motus-Art/) and Daniel Shiffman who produces excellent coding resources over at [TheCodingTrain](https://thecodingtrain.com/).
 
 ## Showcase
@@ -9,11 +10,15 @@ A creative coding project I started to experiment with generative art and animat
 
 Simulating phyllotaxis with an increasing divergence angle
 
+---
+
 [10PRINTCircuit] | [*code*][10PRINTCircuit-code] 
 
 [![10PRINTCircuit][10PRINTCircuit-preview]][10PRINTCircuit]
 
 My version of the famous one-line Commodore 64 BASIC program
+
+---
 
 [Convergence] | [*code*][Convergence-code]
 
