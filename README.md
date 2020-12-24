@@ -4,6 +4,14 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[DFSMaze] | [*code*][DFSMaze-code]
+
+[![DFSMaze][DFSMaze-preview]][DFSMaze]
+
+An iterative implementation of the depth-first search maze generation algorithm
+
+---
+
 [PhyllotacticSpiral] | [*code*][PhyllotacticSpiral-code]
 
 [![PhyllotacticSpiral][PhyllotacticSpiral-preview]][PhyllotacticSpiral]
@@ -30,6 +38,7 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 
 ### 2020
 
+[![DFSMaze][DFSMaze-preview]][DFSMaze]
 [![PhyllotacticSpiral][PhyllotacticSpiral-preview]][PhyllotacticSpiral]
 [![RecursiveOrbit][RecursiveOrbit-preview]][RecursiveOrbit]
 [![10PRINTCircuit][10PRINTCircuit-preview]][10PRINTCircuit]
@@ -45,6 +54,10 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 [![HarmonicQuadrilaterals][HarmonicQuadrilaterals-preview]][HarmonicQuadrilaterals]
 [![BinaryShift][BinaryShift-preview]][BinaryShift]
 
+
+[DFSMaze]: https://amriarshad.github.io/Project-Polygon/src/DFSMaze/index
+[DFSMaze-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/DFSMaze/sketch.js
+[DFSMaze-preview]: ./assets/img/resized/DFSMaze_200x200.png
 [PhyllotacticSpiral]: https://amriarshad.github.io/Project-Polygon/src/PhyllotacticSpiral/index
 [PhyllotacticSpiral-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/PhyllotacticSpiral/sketch.js
 [PhyllotacticSpiral-preview]: ./assets/img/resized/PhyllotacticSpiral_200x200.png
