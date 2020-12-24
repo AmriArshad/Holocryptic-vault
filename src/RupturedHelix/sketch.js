@@ -1,4 +1,5 @@
 // inspiration: https://www.pinterest.nz/pin/226939268711839789/
+// description: A helix that pulses with "unstable energy"
 // 14/12/2020
 
 let angle = 0;

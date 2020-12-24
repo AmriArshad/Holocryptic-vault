@@ -1,4 +1,5 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// description: Using perlin noise to create different rose designs
 // 19/12/2020
 
 let yoff = 0;

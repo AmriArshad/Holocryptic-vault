@@ -1,4 +1,6 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// Travelling at the speed of light  
+// Click to restart
 // 8/12/2020
 
 let yoff = 0;

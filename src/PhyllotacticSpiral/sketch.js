@@ -1,5 +1,6 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/030-phyllotaxis.html
 // inspiration: http://algorithmicbotany.org/papers/abop/abop-ch4.pdf
+// description: Simulating phyllotaxis with an increasing divergence angle
 // 23/12/2020
 
 let n = 0; // ordering of a floret

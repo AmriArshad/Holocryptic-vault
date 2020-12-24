@@ -1,4 +1,5 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// description: Manipulating the vertices of a circle using perlin noise
 // 3/12/2020
 
 let yoff = 0;

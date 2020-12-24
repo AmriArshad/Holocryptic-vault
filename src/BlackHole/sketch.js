@@ -1,4 +1,5 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// Offsetting the vertices of a circle using perlin noise to create a black hole
 // 4/12/2020
 
 let yoff = 0;

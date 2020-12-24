@@ -1,4 +1,5 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/036-blobby.html
+// description: Manipulating sine and cos waves alongside perlin noise to create a wormhole
 // 20/12/2020
 
 let yoff = 0;

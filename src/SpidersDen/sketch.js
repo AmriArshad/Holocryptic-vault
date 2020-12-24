@@ -1,4 +1,5 @@
 // inspiration: https://p5js.org/examples/simulate-particles.html
+// description: Spiders weaving their den
 // 9/12/2020
 
 let spiders = [];

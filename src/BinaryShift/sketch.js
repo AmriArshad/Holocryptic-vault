@@ -1,3 +1,4 @@
+// description: Animated bits that shift in colour and value
 // 28/11/2020
 
 function setup() {

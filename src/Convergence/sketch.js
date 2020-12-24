@@ -1,4 +1,5 @@
 // inspiration: https://p5js.org/examples/3d-sine-cosine-in-3d.html
+// description: Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 // 10/12/2020
 
 function setup() {

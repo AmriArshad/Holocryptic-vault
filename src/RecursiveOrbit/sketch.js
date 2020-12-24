@@ -1,4 +1,6 @@
 // inspiration: https://thecodingtrain.com/CodingChallenges/077-recursion.html
+// description: Using a Sierpinski Triangle to draw an orbit path  
+// Resize the window to view different orbits
 // 22/12/2020
 
 let size;

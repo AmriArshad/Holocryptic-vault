@@ -1,4 +1,5 @@
 // inspiration: https://www.pinterest.nz/pin/512495632586335040/
+// description: Quadrilaterals that change size according to harmonic motion
 // 30/11/2020
 
 let angle = 0;
