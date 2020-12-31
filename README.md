@@ -4,6 +4,14 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[Walkers] | [*code*][Walkers-code]
+
+[![Walkers][Walkers-preview]][Walkers]
+
+Using perlin noise to visualise random walkers
+
+---
+
 [MaurerRose] | [*code*][MaurerRose-code]
 
 [![MaurerRose][MaurerRose-preview]][MaurerRose]
@@ -28,14 +36,6 @@ Simulating phyllotaxis with an increasing divergence angle
 
 ---
 
-[10PRINTCircuit] | [*code*][10PRINTCircuit-code] 
-
-[![10PRINTCircuit][10PRINTCircuit-preview]][10PRINTCircuit]
-
-My version of the famous one-line Commodore 64 BASIC program
-
----
-
 [Convergence] | [*code*][Convergence-code]
 
 [![Convergence][Convergence-preview]][Convergence]
@@ -43,6 +43,10 @@ My version of the famous one-line Commodore 64 BASIC program
 Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 
 ## Archived pieces
+
+### 2021
+
+[![Walkers][Walkers-preview]][Walkers]
 
 ### 2020
 
@@ -62,6 +66,14 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 [![TPulse][TPulse-preview]][TPulse]
 [![HarmonicQuadrilaterals][HarmonicQuadrilaterals-preview]][HarmonicQuadrilaterals]
 [![BinaryShift][BinaryShift-preview]][BinaryShift]
+
+<!-- 2021 -->
+
+[Walkers]: https://amriarshad.github.io/Project-Polygon/src/Walkers/index
+[Walkers-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/Walkers/sketch.js
+[Walkers-preview]: ./assets/img/resized/Walkers_200x200.png
+
+<!-- 2020 -->
 
 [MaurerRose]: https://amriarshad.github.io/Project-Polygon/src/MaurerRose/index
 [MaurerRose-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/MaurerRose/sketch.js
