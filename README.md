@@ -4,6 +4,14 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[MaurerRose] | [*code*][MaurerRose-code]
+
+[![MaurerRose][MaurerRose-preview]][MaurerRose]
+
+A Maurer Rose implemnetation with an increasing number of petals
+
+---
+
 [DFSMaze] | [*code*][DFSMaze-code]
 
 [![DFSMaze][DFSMaze-preview]][DFSMaze]
@@ -38,6 +46,7 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 
 ### 2020
 
+[![MaurerRose][MaurerRose-preview]][MaurerRose]
 [![DFSMaze][DFSMaze-preview]][DFSMaze]
 [![PhyllotacticSpiral][PhyllotacticSpiral-preview]][PhyllotacticSpiral]
 [![RecursiveOrbit][RecursiveOrbit-preview]][RecursiveOrbit]
@@ -54,7 +63,9 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 [![HarmonicQuadrilaterals][HarmonicQuadrilaterals-preview]][HarmonicQuadrilaterals]
 [![BinaryShift][BinaryShift-preview]][BinaryShift]
 
-
+[MaurerRose]: https://amriarshad.github.io/Project-Polygon/src/MaurerRose/index
+[MaurerRose-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/MaurerRose/sketch.js
+[MaurerRose-preview]: ./assets/img/resized/MaurerRose_200x200.png
 [DFSMaze]: https://amriarshad.github.io/Project-Polygon/src/DFSMaze/index
 [DFSMaze-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/DFSMaze/sketch.js
 [DFSMaze-preview]: ./assets/img/resized/DFSMaze_200x200.png
