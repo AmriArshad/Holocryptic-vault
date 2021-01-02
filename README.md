@@ -36,16 +36,11 @@ Simulating phyllotaxis with an increasing divergence angle
 
 ---
 
-[Convergence] | [*code*][Convergence-code]
-
-[![Convergence][Convergence-preview]][Convergence]
-
-Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
-
 ## Archived pieces
 
 ### 2021
 
+[![CollatzConjecture][CollatzConjecture-preview]][CollatzConjecture]
 [![Walkers][Walkers-preview]][Walkers]
 
 ### 2020
@@ -69,6 +64,9 @@ Adaptation of p5js example (Sine Cosine in 3D) using Sine and Tangent
 
 <!-- 2021 -->
 
+[CollatzConjecture]: https://amriarshad.github.io/Project-Polygon/src/CollatzConjecture/index
+[CollatzConjecture-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/CollatzConjecture/sketch.js
+[CollatzConjecture-preview]: ./assets/img/resized/CollatzConjecture_200x200.png
 [Walkers]: https://amriarshad.github.io/Project-Polygon/src/Walkers/index
 [Walkers-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/Walkers/sketch.js
 [Walkers-preview]: ./assets/img/resized/Walkers_200x200.png
