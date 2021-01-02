@@ -1,6 +1,7 @@
 // inspiration: https://youtu.be/EYLWxwo1Ed8
 // inspiration: https://en.wikipedia.org/wiki/Collatz_conjecture
 // a simple Collatz Conjecture visualisation
+// 2/01/2021
 
 let len;
 let angle1;
