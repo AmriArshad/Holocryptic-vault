@@ -1,5 +1,5 @@
 // inspiration: https://youtu.be/1-QXuR-XX_s
-// Experimenting with perlin noise and noise detail to create abstrac contour maps
+// Experimenting with perlin noise and noise detail to create abstract contour maps
 // 3/01/2021
 
 let points = [];

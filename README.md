@@ -9,7 +9,7 @@ A creative coding project I started to experiment with generative art and animat
 
 [![ContourFlow][ContourFlow-preview]][ContourFlow]
 
-Experimenting with perlin noise and noise detail to create abstrac contour maps
+Experimenting with perlin noise and noise detail to create abstract contour maps
 
 ---
 
