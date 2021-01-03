@@ -4,6 +4,13 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[HarmonicEquilateral] | [*code*][HarmonicEquilateral-code]
+
+[![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
+
+A triangular sine wave structure
+
+---
 
 [ContourFlow] | [*code*][ContourFlow-code]
 
@@ -27,31 +34,16 @@ Using perlin noise to visualise random walkers
 
 A Maurer Rose implemnetation with an increasing number of petals
 
----
-
-[DFSMaze] | [*code*][DFSMaze-code]
-
-[![DFSMaze][DFSMaze-preview]][DFSMaze]
-
-An iterative implementation of the depth-first search maze generation algorithm
-
----
-
-[PhyllotacticSpiral] | [*code*][PhyllotacticSpiral-code]
-
-[![PhyllotacticSpiral][PhyllotacticSpiral-preview]][PhyllotacticSpiral]
-
-Simulating phyllotaxis with an increasing divergence angle
-
----
-
 ## Archived pieces
 
 ### 2021
 
+[![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
 [![ContourFlow][ContourFlow-preview]][ContourFlow]
 [![CollatzConjecture][CollatzConjecture-preview]][CollatzConjecture]
 [![Walkers][Walkers-preview]][Walkers]
+
+---
 
 ### 2020
 
@@ -74,6 +66,9 @@ Simulating phyllotaxis with an increasing divergence angle
 
 <!-- 2021 -->
 
+[HarmonicEquilateral]: https://amriarshad.github.io/Project-Polygon/src/HarmonicEquilateral/index
+[HarmonicEquilateral-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/HarmonicEquilateral/sketch.js
+[HarmonicEquilateral-preview]: ./assets/img/resized/HarmonicEquilateral_200x200.png
 [ContourFlow]: https://amriarshad.github.io/Project-Polygon/src/ContourFlow/index
 [ContourFlow-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/ContourFlow/sketch.js
 [ContourFlow-preview]: ./assets/img/resized/ContourFlow_200x200.png
