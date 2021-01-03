@@ -4,6 +4,15 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+
+[ContourFlow] | [*code*][ContourFlow-code]
+
+[![ContourFlow][ContourFlow-preview]][ContourFlow]
+
+Experimenting with perlin noise and noise detail to create abstrac contour maps
+
+---
+
 [Walkers] | [*code*][Walkers-code]
 
 [![Walkers][Walkers-preview]][Walkers]
@@ -40,6 +49,7 @@ Simulating phyllotaxis with an increasing divergence angle
 
 ### 2021
 
+[![ContourFlow][ContourFlow-preview]][ContourFlow]
 [![CollatzConjecture][CollatzConjecture-preview]][CollatzConjecture]
 [![Walkers][Walkers-preview]][Walkers]
 
@@ -64,6 +74,9 @@ Simulating phyllotaxis with an increasing divergence angle
 
 <!-- 2021 -->
 
+[ContourFlow]: https://amriarshad.github.io/Project-Polygon/src/ContourFlow/index
+[ContourFlow-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/ContourFlow/sketch.js
+[ContourFlow-preview]: ./assets/img/resized/ContourFlow_200x200.png
 [CollatzConjecture]: https://amriarshad.github.io/Project-Polygon/src/CollatzConjecture/index
 [CollatzConjecture-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/CollatzConjecture/sketch.js
 [CollatzConjecture-preview]: ./assets/img/resized/CollatzConjecture_200x200.png
