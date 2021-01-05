@@ -4,6 +4,14 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[PerlinsTerrain] | [*code*][PerlinsTerrain-code]
+
+[![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
+
+Dynamic terrain with perlin noise
+
+---
+
 [HarmonicEquilateral] | [*code*][HarmonicEquilateral-code]
 
 [![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
@@ -38,6 +46,7 @@ A Maurer Rose implemnetation with an increasing number of petals
 
 ### 2021
 
+[![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
 [![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
 [![ContourFlow][ContourFlow-preview]][ContourFlow]
 [![CollatzConjecture][CollatzConjecture-preview]][CollatzConjecture]
@@ -66,6 +75,9 @@ A Maurer Rose implemnetation with an increasing number of petals
 
 <!-- 2021 -->
 
+[PerlinsTerrain]: https://amriarshad.github.io/Project-Polygon/src/PerlinsTerrain/index
+[PerlinsTerrain-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/PerlinsTerrain/sketch.js
+[PerlinsTerrain-preview]: ./assets/img/resized/PerlinsTerrain_200x200.png
 [HarmonicEquilateral]: https://amriarshad.github.io/Project-Polygon/src/HarmonicEquilateral/index
 [HarmonicEquilateral-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/HarmonicEquilateral/sketch.js
 [HarmonicEquilateral-preview]: ./assets/img/resized/HarmonicEquilateral_200x200.png
