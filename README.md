@@ -4,6 +4,14 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[SpiroConnectivity] | [*code*][SpiroConnectivity-code]
+
+[![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
+
+Playing around with Spirographs
+
+---
+
 [PerlinsTerrain] | [*code*][PerlinsTerrain-code]
 
 [![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
@@ -46,6 +54,7 @@ A Maurer Rose implemnetation with an increasing number of petals
 
 ### 2021
 
+[![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
 [![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
 [![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
 [![ContourFlow][ContourFlow-preview]][ContourFlow]
@@ -75,6 +84,9 @@ A Maurer Rose implemnetation with an increasing number of petals
 
 <!-- 2021 -->
 
+[SpiroConnectivity]: https://amriarshad.github.io/Project-Polygon/src/SpiroConnectivity/index
+[SpiroConnectivity-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/SpiroConnectivity/sketch.js
+[SpiroConnectivity-preview]: ./assets/img/resized/SpiroConnectivity_200x200.png
 [PerlinsTerrain]: https://amriarshad.github.io/Project-Polygon/src/PerlinsTerrain/index
 [PerlinsTerrain-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/PerlinsTerrain/sketch.js
 [PerlinsTerrain-preview]: ./assets/img/resized/PerlinsTerrain_200x200.png
