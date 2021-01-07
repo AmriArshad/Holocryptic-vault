@@ -29,7 +29,3 @@ function draw() {
 
   n += 0.00001;
 }
-
-function mousePressed(){
-  saveCanvas('TriangularDisarray', 'png');
-}
