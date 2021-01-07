@@ -1,0 +1,15 @@
+/* code from https://editor.p5js.org/dominikus/sketches/jFmtnsKSe */
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#status {
+  font-family: sans-serif;
+  color: white;
+  background-color: #1c1c1c;
+}
