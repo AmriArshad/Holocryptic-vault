@@ -4,6 +4,15 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+
+[TriangularDisarray] | [*code*][TriangularDisarray-code]
+
+[![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
+
+playing around with the Maurer Rose equation
+
+---
+
 [SpiroConnectivity] | [*code*][SpiroConnectivity-code]
 
 [![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
@@ -34,26 +43,11 @@ A triangular sine wave structure
 
 Experimenting with perlin noise and noise detail to create abstract contour maps
 
----
-
-[Walkers] | [*code*][Walkers-code]
-
-[![Walkers][Walkers-preview]][Walkers]
-
-Using perlin noise to visualise random walkers
-
----
-
-[MaurerRose] | [*code*][MaurerRose-code]
-
-[![MaurerRose][MaurerRose-preview]][MaurerRose]
-
-A Maurer Rose implemnetation with an increasing number of petals
-
 ## Archived pieces
 
 ### 2021
 
+[![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
 [![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
 [![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
 [![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
@@ -84,6 +78,9 @@ A Maurer Rose implemnetation with an increasing number of petals
 
 <!-- 2021 -->
 
+[TriangularDisarray]: https://amriarshad.github.io/Project-Polygon/src/TriangularDisarray/index
+[TriangularDisarray-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/TriangularDisarray/sketch.js
+[TriangularDisarray-preview]: ./assets/img/resized/TriangularDisarray_200x200.png
 [SpiroConnectivity]: https://amriarshad.github.io/Project-Polygon/src/SpiroConnectivity/index
 [SpiroConnectivity-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/SpiroConnectivity/sketch.js
 [SpiroConnectivity-preview]: ./assets/img/resized/SpiroConnectivity_200x200.png
