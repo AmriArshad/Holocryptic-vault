@@ -16,7 +16,7 @@ A creative coding project I started to experiment with generative art and animat
 
 [![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
 
-playing around with the Maurer Rose equation
+Playing around with the Maurer Rose equation
 
 ---
 
