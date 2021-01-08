@@ -4,6 +4,13 @@ A creative coding project I started to experiment with generative art and animat
 
 ## Showcase
 
+[MaurerGrid] | [*code*][MaurerGrid-code]
+
+[![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
+
+4x4 grid of Maurer Rose patterns
+
+---
 
 [TriangularDisarray] | [*code*][TriangularDisarray-code]
 
@@ -47,6 +54,7 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 ### 2021
 
+[![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
 [![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
 [![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
 [![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
@@ -78,6 +86,9 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 <!-- 2021 -->
 
+[MaurerGrid]: https://amriarshad.github.io/Project-Polygon/src/MaurerGrid/index
+[MaurerGrid-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/MaurerGrid/sketch.js
+[MaurerGrid-preview]: ./assets/img/resized/MaurerGrid_200x200.png
 [TriangularDisarray]: https://amriarshad.github.io/Project-Polygon/src/TriangularDisarray/index
 [TriangularDisarray-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/TriangularDisarray/sketch.js
 [TriangularDisarray-preview]: ./assets/img/resized/TriangularDisarray_200x200.png
