@@ -6,53 +6,48 @@ Follow me on [Instagram](https://www.instagram.com/pr0jectpolygon/)
 
 ## Showcase
 
-[MaurerGrid] | [*code*][MaurerGrid-code]
+MaurerGrid
 
 [![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
 
 4x4 grid of Maurer Rose patterns
 
----
-
-[TriangularDisarray] | [*code*][TriangularDisarray-code]
-
-[![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
-
-Playing around with the Maurer Rose equation
+[*src code*][MaurerGrid-code]
 
 ---
 
-[SpiroConnectivity] | [*code*][SpiroConnectivity-code]
+
+SpiroConnectivity
 
 [![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
 
 Playing around with Spirographs
 
----
-
-[PerlinsTerrain] | [*code*][PerlinsTerrain-code]
-
-[![PerlinsTerrain][PerlinsTerrain-preview]][PerlinsTerrain]
-
-Dynamic terrain with perlin noise
+[*src code*][SpiroConnectivity-code]
 
 ---
 
-[HarmonicEquilateral] | [*code*][HarmonicEquilateral-code]
+HarmonicEquilateral
 
 [![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
 
 A triangular sine wave structure
 
+[*src code*][HarmonicEquilateral-code]
+
 ---
 
-[ContourFlow] | [*code*][ContourFlow-code]
+ContourFlow
 
 [![ContourFlow][ContourFlow-preview]][ContourFlow]
 
 Experimenting with perlin noise and noise detail to create abstract contour maps
 
-## Archived pieces
+[*src code*][ContourFlow-code]
+
+--- 
+
+## The Vault
 
 ### 2021
 
