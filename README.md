@@ -6,6 +6,17 @@ Follow me on [Instagram](https://www.instagram.com/pr0jectpolygon/)
 
 ## Showcase
 
+Scribbles
+
+[![Scribbles][Scribbles-preview]][Scribbles]
+
+Triangular scribbles on a canvas
+Click to switch between dark and light mode
+
+[*src code*][Scribbles-code]
+
+---
+
 MaurerGrid
 
 [![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
@@ -15,7 +26,6 @@ MaurerGrid
 [*src code*][MaurerGrid-code]
 
 ---
-
 
 SpiroConnectivity
 
@@ -51,6 +61,7 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 ### 2021
 
+[![Scribbles][Scribbles-preview]][Scribbles]
 [![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
 [![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
 [![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
@@ -83,6 +94,9 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 <!-- 2021 -->
 
+[Scribbles]: https://amriarshad.github.io/Project-Polygon/src/Scribbles/index
+[Scribbles-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/Scribbles/sketch.js
+[Scribbles-preview]: ./assets/img/resized/Scribbles_200x200.png
 [MaurerGrid]: https://amriarshad.github.io/Project-Polygon/src/MaurerGrid/index
 [MaurerGrid-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/MaurerGrid/sketch.js
 [MaurerGrid-preview]: ./assets/img/resized/MaurerGrid_200x200.png
