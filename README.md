@@ -11,6 +11,7 @@ Scribbles
 [![Scribbles][Scribbles-preview]][Scribbles]
 
 Triangular scribbles on a canvas
+
 Click to switch between dark and light mode
 
 [*src code*][Scribbles-code]
