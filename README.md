@@ -6,6 +6,16 @@ Follow me on [Instagram](https://www.instagram.com/pr0jectpolygon/)
 
 ## Showcase
 
+DragonsRing
+
+[![DragonsRing][DragonsRing-preview]][DragonsRing]
+
+Using four Dragon Curves, also known as the Heighway dragon, to create a ring
+
+[*src code*][DragonsRing-code]
+
+---
+
 Scribbles
 
 [![Scribbles][Scribbles-preview]][Scribbles]
@@ -62,6 +72,7 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 ### 2021
 
+[![DragonsRing][DragonsRing-preview]][DragonsRing]
 [![Scribbles][Scribbles-preview]][Scribbles]
 [![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
 [![TriangularDisarray][TriangularDisarray-preview]][TriangularDisarray]
@@ -95,6 +106,9 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 <!-- 2021 -->
 
+[DragonsRing]: https://amriarshad.github.io/Project-Polygon/src/DragonsRing/index
+[DragonsRing-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/DragonsRing/sketch.js
+[DragonsRing-preview]: ./assets/img/resized/DragonsRing_200x200.png
 [Scribbles]: https://amriarshad.github.io/Project-Polygon/src/Scribbles/index
 [Scribbles-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/Scribbles/sketch.js
 [Scribbles-preview]: ./assets/img/resized/Scribbles_200x200.png
