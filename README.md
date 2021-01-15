@@ -6,6 +6,16 @@ Follow me on [Instagram](https://www.instagram.com/pr0jectpolygon/)
 
 ## Showcase
 
+VaporwaveSunset
+
+[![VaporwaveSunset][VaporwaveSunset-preview]][VaporwaveSunset]
+
+My version of the classic vaporwave sunset
+
+[*src code*][VaporwaveSunset-code]
+
+---
+
 DragonsRing
 
 [![DragonsRing][DragonsRing-preview]][DragonsRing]
@@ -48,30 +58,11 @@ Playing around with Spirographs
 
 ---
 
-HarmonicEquilateral
-
-[![HarmonicEquilateral][HarmonicEquilateral-preview]][HarmonicEquilateral]
-
-A triangular sine wave structure
-
-[*src code*][HarmonicEquilateral-code]
-
----
-
-ContourFlow
-
-[![ContourFlow][ContourFlow-preview]][ContourFlow]
-
-Experimenting with perlin noise and noise detail to create abstract contour maps
-
-[*src code*][ContourFlow-code]
-
---- 
-
 ## The Vault
 
 ### 2021
 
+[![VaporwaveSunset][VaporwaveSunset-preview]][VaporwaveSunset]
 [![DragonsRing][DragonsRing-preview]][DragonsRing]
 [![Scribbles][Scribbles-preview]][Scribbles]
 [![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
@@ -106,6 +97,9 @@ Experimenting with perlin noise and noise detail to create abstract contour maps
 
 <!-- 2021 -->
 
+[VaporwaveSunset]: https://amriarshad.github.io/Project-Polygon/src/VaporwaveSunset/index
+[VaporwaveSunset-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/VaporwaveSunset/sketch.js
+[VaporwaveSunset-preview]: ./assets/img/resized/VaporwaveSunset_200x200.png
 [DragonsRing]: https://amriarshad.github.io/Project-Polygon/src/DragonsRing/index
 [DragonsRing-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/DragonsRing/sketch.js
 [DragonsRing-preview]: ./assets/img/resized/DragonsRing_200x200.png
