@@ -6,6 +6,18 @@ Follow me on [Instagram](https://www.instagram.com/pr0jectpolygon/)
 
 ## Showcase
 
+CliffordAttractors
+
+[![CliffordAttractors][CliffordAttractors-preview]][CliffordAttractors]
+
+Experimenting with Clifford Attractors 
+
+Reload the page to view a different attractor
+
+[*src code*][CliffordAttractors-code]
+
+---
+
 VaporwaveSunset
 
 [![VaporwaveSunset][VaporwaveSunset-preview]][VaporwaveSunset]
@@ -38,30 +50,11 @@ Click to switch between dark and light mode
 
 ---
 
-MaurerGrid
-
-[![MaurerGrid][MaurerGrid-preview]][MaurerGrid]
-
-4x4 grid of Maurer Rose patterns
-
-[*src code*][MaurerGrid-code]
-
----
-
-SpiroConnectivity
-
-[![SpiroConnectivity][SpiroConnectivity-preview]][SpiroConnectivity]
-
-Playing around with Spirographs
-
-[*src code*][SpiroConnectivity-code]
-
----
-
 ## The Vault
 
 ### 2021
 
+[![CliffordAttractors][CliffordAttractors-preview]][CliffordAttractors]
 [![VaporwaveSunset][VaporwaveSunset-preview]][VaporwaveSunset]
 [![DragonsRing][DragonsRing-preview]][DragonsRing]
 [![Scribbles][Scribbles-preview]][Scribbles]
@@ -97,6 +90,9 @@ Playing around with Spirographs
 
 <!-- 2021 -->
 
+[CliffordAttractors]: https://amriarshad.github.io/Project-Polygon/src/CliffordAttractors/index
+[CliffordAttractors-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/CliffordAttractors/sketch.js
+[CliffordAttractors-preview]: ./assets/img/resized/CliffordAttractors_200x200.png
 [VaporwaveSunset]: https://amriarshad.github.io/Project-Polygon/src/VaporwaveSunset/index
 [VaporwaveSunset-code]: https://github.com/AmriArshad/Project-Polygon/tree/main/src/VaporwaveSunset/sketch.js
 [VaporwaveSunset-preview]: ./assets/img/resized/VaporwaveSunset_200x200.png
