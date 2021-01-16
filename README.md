@@ -1,4 +1,4 @@
-![logo](./assets/img/diamond.svg)
+<img src="./assets/img/diamond.svg" width="50" height="50">
 # Project Polygon
 
 A creative coding project I started to experiment with generative art and animation with code. It is heavily inspired by [Motus Art](https://owenmcateer.github.io/Motus-Art/) and Daniel Shiffman who produces excellent coding resources over at [TheCodingTrain](https://thecodingtrain.com/).
