@@ -1,5 +1,5 @@
 // inspiration: https://youtu.be/LaarVR1AOvs
-// 
+// Using parametric equations to create a hypnotic effect
 // 18/01/2021
 
 let t = 0;
