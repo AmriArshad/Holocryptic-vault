@@ -1,12 +1,6 @@
+// setup and draw function goes here
 
 
-function setup() {
-
-}
-
-function draw() {
-
-}
 
 // code below from https://editor.p5js.org/dominikus/sketches/jFmtnsKSe
 
