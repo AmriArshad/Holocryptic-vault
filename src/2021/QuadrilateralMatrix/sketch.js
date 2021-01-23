@@ -1,4 +1,4 @@
-// Grid of squares that change size based on their position, alongside sin and cosine waves
+// Grid of squares that change size based on their position, alongside sine and cosine waves
 // 22/01/2021
 
 let scl;
