@@ -1,4 +1,4 @@
-// 
+// Hypnotic lines that form a diamond
 // 14/02/2021
 
 let lines1 = [];
