@@ -1,4 +1,4 @@
-// Utilising perlin noise to create abstract shapes
+// Utilizing perlin noise to create abstract shapes
 // 27/03/2021
 
 let yoff = 0;
