@@ -1,5 +1,5 @@
 // 10/04/2021
-// A continuously changing lotus created with parametric equations
+// A continuously changing lotus made with parametric equations
 
 let t = 0;
 const lines = 200;
