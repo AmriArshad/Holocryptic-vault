@@ -2,7 +2,6 @@
 // 22/5/21
 
 let yoff = 0;
-let radius = 250;
 
 function setup() {
   createCanvas(1080, 1080);
