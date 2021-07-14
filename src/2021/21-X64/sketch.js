@@ -6,7 +6,7 @@ let points = [];
 let mult = 0.005;
 
 function setup() {
-  createCanvas(1080, 1080);
+  createCanvas(windowWidth, windowHeight);
   background(0);
   noStroke();
   angleMode(DEGREES);
