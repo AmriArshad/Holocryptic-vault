@@ -1,4 +1,5 @@
 // 18/7/21
+// Perlin's Aurora
 // Abstract paintings with perlin noise
 
 let points = [];
