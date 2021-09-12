@@ -19,7 +19,6 @@ class Particle {
     // add position to history for trail
     let v = createVector(this.x, this.y);
     this.history.push(v);
-    console.log(this.history.length);
 
     if (this.history.length > 50) {
       this.history.splice(0, 1);
