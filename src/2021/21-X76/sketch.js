@@ -1,5 +1,5 @@
 // inspiration: https://twitter.com/incre_ment/status/1439262286179287045
-// 3/8/21
+// 3/9/21
 // Fountain of Time
 
 let x = 0;
@@ -16,7 +16,6 @@ function draw() {
   background(0, 150);
   translate(width / 2, height / 2);
 
-  // rotate(.8);
   rotate(PI * 1.5);
   for (let n = 0; n < width / 20; n++) {
     for (let i = 0; i < width / 20; i++) {
