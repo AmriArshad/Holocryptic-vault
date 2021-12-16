@@ -16,11 +16,11 @@ function draw() {
   for (let i = 0; i < 5000; i++) {
     push();
     p = (i + t) / 2500;
-    x = -w + p * width/2;
+    x = -w + p * width / 2;
     y = 9 * tan(x) * tan(x);
-    rotate(4 * PI * pow(map(mag(x, y), 0, w, sin(t*10), 0), 2));
+    rotate(4 * PI * pow(map(mag(x, y), 0, w, sin(t * 10), 0), 2));
     circle(x, y, 2 + sin(PI * (8 * p - t)));
     pop();
   }
-  t += .001;
+  t += .0005;
 }
