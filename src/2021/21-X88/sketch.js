@@ -1,5 +1,5 @@
-// 
-// 
+// Dimensional Rift
+// 31/12/21
 
 let t = 0
 let p, x, y;
@@ -16,8 +16,6 @@ function draw() {
   for (let i = 0; i < 5000; i++) {
     push();
     p = (i + t) / 2500;
-    // x = 9 * sin(y) * tan(y) * y;
-    // y = -w + p * w;
     x = -w + p * w;
     y = 9 * mag(sin(PI * x * t / 100), tan(PI * x / 10)) * tan(PI * x / 10) / sin(t / 10);
     circle(x, y, 2.5 + sin(PI * (8 * p - t)));
