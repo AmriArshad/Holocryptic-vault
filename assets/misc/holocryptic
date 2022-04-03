@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Holocryptic template function
+cd ~/repos/Holocryptic
+cp -r assets/misc/sketchTemplate src/$(date +'%Y')/$1
+code .
