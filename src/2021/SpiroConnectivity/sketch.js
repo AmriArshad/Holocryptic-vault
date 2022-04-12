@@ -12,7 +12,7 @@ let a1Inc, a2Inc, prevX, prevY, r1, r2, g1, g2, b1, b2;
 
 function setup() {
   createCanvas(1080, 1080);
-  background(10);
+  background(0);
   angleMode(DEGREES);
 
   // generate random values for radii, increments and rgb

@@ -29,7 +29,7 @@ let y = 0;
 function setup() {
   createCanvas(1080, 1080);
   background(0);
-  stroke(random(255), random(255), random(255), 50);
+  stroke(random(255), random(255), random(255), 10);
 
   // choose random set of parameters
   let selected = random(params);
@@ -41,7 +41,7 @@ function setup() {
 
 function draw() {
 
-  for (let i = 0; i < 1000; i++) {
+  for (let i = 0; i < 3000; i++) {
     // get next x, y pos
     let x1 = sin(a * y) + c * cos(a * x);
     let y1 = sin(b * x) + d * cos(b * y);
@@ -57,5 +57,5 @@ function draw() {
     y = y1;
   }
 
-  if (frameCount == 1000) noLoop();
+  if (frameCount == 1500) noLoop();
 }
